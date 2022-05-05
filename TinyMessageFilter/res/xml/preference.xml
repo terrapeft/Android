@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference
+	    android:key="@string/pref_block" 
+	    android:title="Filter messages"
+        android:summary="Switch it off to pass all SMSs as is. Do not forget to switch on/off the original notifications in SMS Settings."
+	    android:defaultValue="true"
+	    />
+	<CheckBoxPreference 
+	    android:key="@string/pref_blockUnknown" 
+	    android:title="Block unknown senders"
+        android:summary="Unknown senders are those that do not present in a phone Contacts and SMS storage."
+	    android:defaultValue="false"
+        android:dependency="@string/pref_block"
+	    />
+	<CheckBoxPreference 
+	    android:key="@string/pref_notify" 
+	    android:title="Notify when blocked"
+        android:summary="Notify of blocked messages received from unknown senders; spam has no notifications."
+        android:dependency="@string/pref_blockUnknown"
+	    android:defaultValue="true" 
+	    />
+    <CheckBoxPreference 
+	    android:key="@string/pref_keepSpam" 
+	    android:title="Keep spam" 
+	    android:defaultValue="true"
+	    android:summary="Save all spam messages to a custom storage."
+        android:dependency="@string/pref_block"
+        />
+    <CheckBoxPreference
+        android:key="@string/pref_sentTime"
+        android:title="Add sent time"
+        android:summary="Add an original sent time to the text of a message; note that system shows you the received time."
+        android:defaultValue="false"
+        android:dependency="@string/pref_block"
+        />
+	<CheckBoxPreference
+	    android:key="@string/pref_trace" 
+	    android:title="Usage log"
+	    android:defaultValue="false"
+	    android:summary="In case of problems you can send it to developer (manually, no data is sent in background)" />
+</PreferenceScreen>
+

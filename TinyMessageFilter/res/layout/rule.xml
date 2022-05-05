@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <!-- non-scrolling top pane -->
+    <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:padding="5dp"
+            android:orientation="horizontal"
+            android:gravity="right|center_vertical"
+            android:background="#CCCCEE"
+            android:visibility="invisible"
+            >
+        <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="@drawable/plane_spinner"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <Button
+                android:id="@+id/pbutton_up"
+                android:background="@drawable/up_button"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <Button
+                android:id="@+id/pbutton_down"
+                android:background="@drawable/down_button"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:focusable="false"
+                />
+
+        <!--<CheckBox
+                android:id="@+id/checkbox_fav"
+                android:button="@drawable/fav_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_toLeftOf="@+id/checkbox_block"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />-->
+    </LinearLayout >
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:choiceMode="multipleChoice"
+    android:cacheColorHint="#00000000"
+    android:id="@android:id/list">
+	</ListView>
+
+</LinearLayout>

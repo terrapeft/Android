@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    >
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:shrinkColumns="0"
+    android:stretchColumns="1">
+    <TableRow>
+    <LinearLayout     android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical"
+                      android:layout_alignParentLeft="true"
+                      >
+        <TextView
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:id="@+id/name_entry"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:textSize="18sp"
+                android:text="Arthur"
+                />
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/number_entry"
+                android:singleLine="true"
+                android:textSize="18sp"
+                android:textColor="@android:color/white"
+                android:text="1234566"/>
+    </LinearLayout >
+    <LinearLayout     android:layout_width="wrap_content"
+                      android:layout_height="52dp"
+                      android:orientation="horizontal"
+                      android:gravity="right|center_vertical"
+            >
+        <CheckBox
+                android:id="@+id/checkbox_block"
+                android:button="@drawable/block_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_fav"
+                android:button="@drawable/fav_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_toLeftOf="@+id/checkbox_block"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_mute"
+                android:button="@drawable/mute_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_toLeftOf="@+id/checkbox_fav"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+    </LinearLayout >
+    </TableRow>
+</TableLayout>
+</LinearLayout>

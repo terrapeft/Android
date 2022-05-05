@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/patternDlg"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:paddingRight="15dp"
+              android:paddingLeft="15dp"
+              android:paddingBottom="15dp"
+              android:shrinkColumns="1"
+              android:background="#000000"
+        >
+
+    <TextView android:id="@+id/help1" android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:text="Enter pattern name:"
+              android:layout_gravity="center_vertical" />
+
+    <LinearLayout android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+
+                  android:background="#333333"
+                  android:padding="3dp">
+        <EditText
+                android:id="@+id/patternName"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                />
+    </LinearLayout>
+    <TextView android:id="@+id/help2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+              android:text="Enter pattern (check to apply for msg):"
+              android:layout_gravity="center_vertical" />
+
+    <LinearLayout android:layout_width="fill_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal"
+                  android:background="#333333"
+                  android:padding="3dp">
+        <EditText
+                android:id="@+id/editPattern"
+                android:layout_height="fill_parent"
+                android:layout_width="fill_parent"
+                android:layout_weight="1"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_block"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+
+    </LinearLayout>
+    <LinearLayout     android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:gravity="right|center_vertical"
+                      android:paddingTop="3dp"
+            >
+        <View
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_block"
+                android:button="@drawable/block_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_mute"
+                android:button="@drawable/mute_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_toLeftOf="@+id/checkbox_fav"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_calls"
+                android:button="@drawable/calls_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+        <CheckBox
+                android:id="@+id/checkbox_fav"
+                android:button="@drawable/fav_checkbox"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:checked="false"
+                android:layout_toLeftOf="@+id/checkbox_block"
+                android:layout_marginRight="3dp"
+                android:focusable="false"
+                />
+    </LinearLayout >
+
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Quick reference:"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="^3 - starts with 3"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="2$ - ends with 2"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="237 - contains 237"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="sex|fax - contains 'sex' or 'fax'"/>
+    <TextView android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="(?i)sex|fax - contains 'sEx' or 'faX'"/>
+
+</LinearLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prefmenu_toHome">Home</string>
+    <string name="prefmenu_toContacts">People</string>
+    <string name="prefmenu_toTraces">Traces</string>
+    <string name="prefmenu_toMessages">Messages</string>
+    <string name="prefmenu_toFavorities">Favorities</string>
+    <string name="app_name">Tiny Message Filter</string>
+    <string name="view_contacts">Senders</string>
+    <string name="view_messages">Blocked Messages</string>
+    <string name="view_rules">Options</string>
+    <string name="view_traces">Activity log</string>
+    <string name="save_blacklist">Commit</string>
+    <string name="refresh_blacklist">Refresh</string>
+    <string name="clear_blacklist">Clear</string>
+    <string name="clear_log">Clear log</string>
+    <string name="refresh_db">Reload</string>
+    <string name="deleted_sender">&lt;Deleted sender&gt;</string>
+    <string name="pref_sentTime">sentTime</string>
+    <string name="pref_block">block</string>
+    <string name="pref_trace">trace</string>
+    <string name="pref_olya">olya</string>
+    <string name="pref_plane">plane</string>
+    <string name="pref_keepSpam">keepSpam</string>
+    <string name="pref_blockUnknown">blockUnknown</string>
+    <string name="pref_notify">notify</string>
+    <string name="search_hint">Type name or number</string>
+    <string name="searchLabel">Search</string>
+    <string name="go_home">Home</string>
+    <string name="clear_spam">Clear SpamBox</string>
+    <string name="str_about">About...</string>
+    <string name="save_spam">Save</string>
+    <string name="save_log">Save</string>
+    <string name="pref_silence">silent_notification</string>
+    <string name="help_file">Help</string>
+    <string name="export_blacklist">Export</string>
+    <string name="remove_contact">Remove from list</string>
+</resources>

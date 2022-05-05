@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:scrollbars="vertical"
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent"
+            android:background="#777777"
+        >
+
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/start"
+                  android:orientation="vertical"
+                  android:layout_width="245dip"
+                  android:layout_height="match_parent"
+                  android:stretchColumns="*"
+                  android:layout_gravity="center_horizontal"
+                  android:background="#777777"
+            >
+        <TableRow android:paddingTop="30dip" android:paddingLeft="5dip" android:paddingRight="6dip">
+            <TextView
+                    android:id="@+id/spamName"
+                    android:textSize="14sp"
+                    android:text="SPAMBOX: "
+                    android:gravity="left"
+                    android:textColor="#FFFFFF"
+                    />
+            <TextView
+                    android:gravity="center_horizontal"
+                    android:background="#AAAAFF"
+                    android:id="@+id/spamCount"
+                    android:textSize="14sp"
+                    android:text="12 (345)"
+                    android:textColor="#FFFFFF"
+                    />
+        </TableRow>
+        <TableRow android:paddingTop="5dip" android:paddingLeft="5dip" android:paddingRight="6dip">
+            <TextView
+                    android:gravity="left"
+                    android:id="@+id/inboxName"
+                    android:textSize="14sp"
+                    android:layout_width="fill_parent"
+                    android:text="INBOX NEW: "
+                    android:textColor="#FFFFFF"
+                    />
+            <TextView
+                    android:gravity="center_horizontal"
+                    android:background="#AAAAFF"
+                    android:id="@+id/inboxCount"
+                    android:textSize="14sp"
+                    android:text="0"
+                    android:textColor="#FFFFFF"
+                    />
+        </TableRow>
+        <TableRow android:paddingTop="5dip" android:paddingLeft="5dip" android:paddingRight="6dip">
+            <TextView
+                    android:id="@+id/blackName"
+                    android:textSize="14sp"
+                    android:text="BLACK LIST: "
+                    android:gravity="left"
+                    android:textColor="#FFFFFF"
+                    />
+
+            <TextView
+                    android:layout_width="fill_parent"
+                    android:gravity="center_horizontal"
+                    android:background="#AAAAFF"
+                    android:id="@+id/blackCount"
+                    android:textSize="14sp"
+                    android:text="0"
+                    android:textColor="#FFFFFF"
+                    />
+        </TableRow>
+        <TableRow android:paddingTop="5dip" android:paddingLeft="5dip" android:paddingRight="6dip">
+            <TextView
+                    android:id="@+id/favName"
+                    android:textSize="14sp"
+                    android:text="FAVORITIES: "
+                    android:gravity="left"
+                    android:textColor="#FFFFFF"
+                    />
+    
+            <TextView
+                    android:layout_width="fill_parent"
+                    android:gravity="center_horizontal"
+                    android:background="#AAAAFF"
+                    android:id="@+id/favCount"
+                    android:textSize="14sp"
+                    android:text="0"
+                    android:textColor="#FFFFFF"
+                    />
+        </TableRow>
+        <TableRow android:paddingTop="5dip" android:paddingLeft="5dip" android:paddingRight="6dip">
+            <TextView
+                    android:id="@+id/muteName"
+                    android:textSize="14sp"
+                    android:text="MUTED: "
+                    android:gravity="left"
+                    android:textColor="#FFFFFF"
+                    />
+
+            <TextView
+                    android:layout_width="fill_parent"
+                    android:gravity="center_horizontal"
+                    android:background="#AAAAFF"
+                    android:id="@+id/muteCount"
+                    android:textSize="14sp"
+                    android:text="0"
+                    android:textColor="#FFFFFF"
+                    />
+        </TableRow>
+        <TableRow android:paddingTop="30dip" >
+            <TableLayout
+                    android:layout_span="2"
+                    android:layout_width="fill_parent"
+                    android:layout_gravity="center_horizontal"
+                    >
+                <TableRow >
+                    <Button
+                            android:id="@+id/inboxButton"
+                            android:drawableTop="@drawable/inbox"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="INBOX"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+                            android:onClick="onClick"
+                            android:layout_marginRight="1dip"
+                            />
+                    <Button
+                            android:id="@+id/spamButton"
+                            android:drawableTop="@drawable/spambox"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="SPAM"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+                            android:onClick="onClick"
+                            android:layout_marginRight="1dip"
+                            />
+                    <Button
+                            android:id="@+id/contactsButton"
+                            android:drawableTop="@drawable/contacts"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="SENDERS"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+                            android:onClick="onClick"
+                            />
+                </TableRow>
+                <TableRow android:layout_marginTop="1dp">
+                    <Button
+                            android:id="@+id/prefsButton"
+                            android:drawableTop="@drawable/prefs"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="PREFS"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+                            android:onClick="onClick"
+                            android:layout_marginRight="1dip"
+                            />
+                    <Button
+                            android:id="@+id/traceButton"
+                            android:drawableTop="@drawable/traces"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="LOG"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+                            android:onClick="onClick"
+                            android:layout_marginRight="1dip"
+                            />
+                    <Button
+                            android:id="@+id/aboutButton"
+                            android:drawableTop="@drawable/about"
+                            android:drawablePadding="6dp"
+                            android:paddingTop="12dp"
+                            android:text="ABOUT"
+                            android:textSize="10sp"
+                            android:textColor="#555555"
+                            android:layout_width="80dip"
+                            android:layout_height="80dip"
+
+                            android:onClick="onClick"
+                            />
+                </TableRow>
+             </TableLayout>
+        </TableRow>
+    </TableLayout>
+</ScrollView>

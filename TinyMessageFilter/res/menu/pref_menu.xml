@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/toHome" android:icon="@drawable/home" android:title="@string/prefmenu_toHome"></item>
+    <item android:id="@+id/toContacts" android:icon="@drawable/contacts" android:title="@string/prefmenu_toContacts"></item>
+    <item android:id="@+id/toFilters" android:icon="@drawable/traces" android:title="@string/prefmenu_toTraces"></item>
+    <item android:id="@+id/toMessages" android:icon="@drawable/spambox" android:title="@string/prefmenu_toMessages"></item>
+</menu>

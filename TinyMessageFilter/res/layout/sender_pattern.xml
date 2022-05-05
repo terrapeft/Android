@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:scrollbars="vertical"
+            android:layout_height="fill_parent"
+            android:layout_width="fill_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:id="@+id/patternDlg"
+                  android:orientation="vertical"
+                  android:layout_width="fill_parent"
+                  android:layout_height="fill_parent"
+                  android:paddingRight="15dp"
+                  android:paddingLeft="15dp"
+                  android:paddingBottom="15dp"
+                  android:shrinkColumns="1"
+                  android:background="#000000"
+            >
+        <TextView android:id="@+id/help1" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="Enter pattern name:"
+                  android:layout_gravity="center_vertical" />
+
+        <EditText
+                android:id="@+id/patternName"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                />
+        <TextView android:id="@+id/help2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="Enter number pattern (see help below):"
+                  android:layout_gravity="center_vertical" />
+        <EditText
+                android:id="@+id/editPattern"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+
+                />
+        <TextView android:id="@+id/help2" android:layout_width="wrap_content" android:layout_height="wrap_content"
+                  android:text="Enter message body pattern:"
+                  android:layout_gravity="center_vertical" />
+        <EditText
+                android:id="@+id/editBodyPattern"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+
+                />
+        <LinearLayout     android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="horizontal"
+                          android:gravity="right|center_vertical"
+                          android:paddingTop="3dp"
+                >
+            <View
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:background="@android:color/white"
+                    />
+            <ImageView
+                    android:id="@+id/planeImage"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="@drawable/plane_spam"
+                    />
+            <CheckBox
+                    android:id="@+id/checkbox_block"
+                    android:layout_width="wrap_content"
+                    android:layout_height="32dp"
+                    android:checked="false"
+                    android:layout_marginRight="3dp"
+                    android:text="Stop"
+                    android:focusable="false"
+                    />
+            <CheckBox
+                    android:id="@+id/checkbox_block"
+                    android:button="@drawable/block_checkbox"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:checked="false"
+                    android:layout_marginRight="3dp"
+                    android:focusable="false"
+                    />
+            <CheckBox
+                    android:id="@+id/checkbox_mute"
+                    android:button="@drawable/mute_checkbox"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:checked="false"
+                    android:layout_toLeftOf="@+id/checkbox_fav"
+                    android:layout_marginRight="3dp"
+                    android:focusable="false"
+                    />
+            <CheckBox
+                    android:id="@+id/checkbox_calls"
+                    android:button="@drawable/calls_checkbox"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:checked="false"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginRight="3dp"
+                    android:focusable="false"
+                    />
+        </LinearLayout >
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/quick_ref"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/starts_with"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/ends_with"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/contains"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/has_no_digits"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/sex_fax"/>
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="@string/sex_fax_ignore"/>
+    </LinearLayout>
+
+</ScrollView>

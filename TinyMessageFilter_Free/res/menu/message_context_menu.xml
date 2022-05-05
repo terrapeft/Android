@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      android:scrollbarAlwaysDrawVerticalTrack="true">
+    <item android:id="@+id/block_sender" android:title="Block sender"/>
+    <item android:id="@+id/allow_sender" android:title="Allow sender"/>
+    <item android:id="@+id/remove_message" android:title="Remove message"/>
+    <item android:id="@+id/remove_messages" android:title="Remove all from this sender"/>
+    <item android:id="@+id/push_message" android:title="Copy to Inbox"/>
+    <item android:id="@+id/push_messages" android:title="Copy all from this sender"/>
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeButton" android:icon="@drawable/home" android:title="@string/go_home"></item>
+    <item android:id="@+id/searchButton" android:icon="@drawable/magnifier" android:title="@string/searchLabel"></item>
+    <item android:id="@+id/refreshButton" android:icon="@drawable/refresh"
+          android:title="@string/refresh_blacklist"></item>
+    <item android:id="@+id/unblockButton" android:icon="@drawable/clear" android:title="@string/clear_blacklist"></item>
+    <item android:id="@+id/exportButton" android:icon="@drawable/save" android:title="@string/export_blacklist"></item>
+    <item android:id="@+id/helpButton" android:icon="@drawable/help" android:title="@string/help_file"></item>
+</menu>

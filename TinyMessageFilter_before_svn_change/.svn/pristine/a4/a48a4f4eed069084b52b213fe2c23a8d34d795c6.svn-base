@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-8" />
+        <option name="theme" value="Theme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-8" />
+        <option name="theme" value="Theme" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="0da2220f-25ef-480f-9c30-4eca679c84c8" name="Default" comment="reject calls (2.2 only)">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/add_sender.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/allow_calls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/android" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/android/internal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/android/internal/telephony" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/android/internal/telephony/ITelephony.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/menu/file_menu.xml" afterPath="$PROJECT_DIR$/res/menu/file_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="TinySmsUtil.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Statistics.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355408501288" ignored="false" />
+    <file path="/Dummy.txt" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365172212292" ignored="false" />
+    <file path="$PROJECT_DIR$/src/smf/local/Tiny Message Filter.form" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355399690225" ignored="false" />
+    <file path="$PROJECT_DIR$/src/smf/local/Tine Message Filter.form" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355399040573" ignored="false" />
+    <file path="/a.dummy" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365164082625" ignored="false" />
+    <file path="/ContactModelHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359125832102" ignored="false" />
+    <file path="/IComparableEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355997895111" ignored="false" />
+    <file path="/ArrayListEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362668122127" ignored="false" />
+    <file path="/ContactModel.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359130297309" ignored="false" />
+    <file path="/UserPrefs.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1358712069065" ignored="false" />
+    <file path="/SystemAccess.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365168913363" ignored="false" />
+    <file path="/a.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359103143113" ignored="false" />
+    <file path="/preference.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361892045231" ignored="false" />
+    <file path="/SmsMessageEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365161277967" ignored="false" />
+    <file path="/SmsReceiver.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361892400107" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359646777059" ignored="false" />
+    <file path="/Statistics.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362054483547" ignored="false" />
+    <file path="/statistics.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361968208306" ignored="false" />
+    <file path="/ContactList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359125940569" ignored="false" />
+    <file path="/fragment.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365168877378" ignored="false" />
+    <file path="/pref_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1356097071800" ignored="false" />
+    <file path="/strings.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361807023124" ignored="false" />
+    <file path="/PreferencesList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355412037214" ignored="false" />
+    <file path="/DbHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365166520161" ignored="false" />
+    <file path="/ContactsArrayAdapter.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359118364635" ignored="false" />
+    <file path="/contact_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359126873178" ignored="false" />
+    <file path="/MessagesArrayAdapter.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355478463079" ignored="false" />
+    <file path="/searchable.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355493568760" ignored="false" />
+    <file path="/IQueryableEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1355496692110" ignored="false" />
+    <file path="/log_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362488400451" ignored="false" />
+    <file path="/TracesList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362046476816" ignored="false" />
+    <file path="/cell_shape.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1356085710954" ignored="false" />
+    <file path="/spam_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1356097582437" ignored="false" />
+    <file path="/BlockedMessagesList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362668437234" ignored="false" />
+    <file path="/block_checkbox.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1356097553006" ignored="false" />
+    <file path="/fav_checkbox.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359554591352" ignored="false" />
+    <file path="/home_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1356098535473" ignored="false" />
+    <file path="/message_context_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359623013339" ignored="false" />
+    <file path="/message_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1358856281228" ignored="false" />
+    <file path="/MessageModel.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359106883822" ignored="false" />
+    <file path="/TraceModel.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359103820682" ignored="false" />
+    <file path="/FileModel.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365160323531" ignored="false" />
+    <file path="/contact_list.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365084409309" ignored="false" />
+    <file path="/CacheHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365164167429" ignored="false" />
+    <file path="/FileList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365164511444" ignored="false" />
+    <file path="/mute_checkbox.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359130714683" ignored="false" />
+    <file path="/FileModelHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361877788007" ignored="false" />
+    <file path="/References.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1360234219397" ignored="false" />
+    <file path="/MessageModelHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359465439313" ignored="false" />
+    <file path="/file_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365173726697" ignored="false" />
+    <file path="/SmsBackgroundReceiver.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359542974785" ignored="false" />
+    <file path="/FileHelp.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359638732616" ignored="false" />
+    <file path="/file_help.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1364207110183" ignored="false" />
+    <file path="/save_help.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359641452360" ignored="false" />
+    <file path="/save_log_help.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1359641536082" ignored="false" />
+    <file path="/colors.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1360166181664" ignored="false" />
+    <file path="/progressbar.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1360232997271" ignored="false" />
+    <file path="/FileArrayAdapter.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365087093238" ignored="false" />
+    <file path="/ErrorHelper.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361962737492" ignored="false" />
+    <file path="/SmsService.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1361892456037" ignored="false" />
+    <file path="/file_context_menu.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365164366364" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/src/smf/local/Messages/BlockedMessagesList.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362668515411" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/src/smf/local/Helpers/SystemAccess.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362670808460" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/src/smf/local/CustomTypes/ArrayListEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362668135856" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/src/smf/local/CustomTypes/ContentProviderEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362670392828" ignored="false" />
+    <file path="/ContentProviderEx.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362670392407" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/.idea/workspace.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362670905065" ignored="false" />
+    <file path="$PROJECT_DIR$/../TinyMessageFilter_Free/src/smf/local/Files/FileArrayAdapter.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1362671066182" ignored="false" />
+    <file path="/sender_pattern.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365170364313" ignored="false" />
+    <file path="/blockCalls_checkbox.xml" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365083173115" ignored="false" />
+    <file path="/PhoneCallReceiver.java" changelist="0da2220f-25ef-480f-9c30-4eca679c84c8" time="1365170556132" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/smf/local/Helpers/DbHelper.java" line="205" class="smf.local.Helpers.DbHelper" package="smf.local.Helpers">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="TinySmsUtil" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SystemAccess.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/SystemAccess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="128" column="0" selection-start="4894" selection-end="4894" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#3980#4977#0" expanded="true" />
+                <element signature="e#4966#4967#0" expanded="true" />
+                <element signature="e#5019#5184#0" expanded="true" />
+                <element signature="e#5173#5174#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sender_pattern.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/sender_pattern.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="54" selection-start="791" selection-end="791" vertical-scroll-proportion="-12.24">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhoneCallReceiver.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/PhoneCallReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="50" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_menu.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/menu/file_menu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="33" selection-start="962" selection-end="962" vertical-scroll-proportion="0.30538923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SmsMessageEx.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/CustomTypes/SmsMessageEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="107" column="0" selection-start="2869" selection-end="3139" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CacheHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/CacheHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="34" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileList.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="182" column="0" selection-start="5707" selection-end="5707" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/DbHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="0" selection-start="6090" selection-end="6090" vertical-scroll-proportion="-5.6">
+              <folding>
+                <element signature="e#4034#4045#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileModel.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="19" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="method#setIgnoreIt#0;class#FileModel#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="file_context_menu.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/menu/file_context_menu.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="31" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="expandStates">
+      <map>
+        <entry key="TinySmsUtil" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/smf/local/SmsReceiver.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/android/internal/telephony/ITelephony.aidl" />
+        <option value="$PROJECT_DIR$/res/drawable/blockCalls_checkbox.xml" />
+        <option value="$PROJECT_DIR$/res/layout/contact_list.xml" />
+        <option value="$PROJECT_DIR$/src/smf/local/Files/FileArrayAdapter.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Traces/TracesList.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Messages/BlockedMessagesList.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Files/FileModel.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/CustomTypes/SmsMessageEx.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Helpers/CacheHelper.java" />
+        <option value="$PROJECT_DIR$/res/menu/file_context_menu.xml" />
+        <option value="$PROJECT_DIR$/src/smf/local/Files/FileList.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Helpers/DbHelper.java" />
+        <option value="$PROJECT_DIR$/src/smf/local/Helpers/SystemAccess.java" />
+        <option value="$PROJECT_DIR$/res/layout/sender_pattern.xml" />
+        <option value="$PROJECT_DIR$/src/smf/local/PhoneCallReceiver.java" />
+        <option value="$PROJECT_DIR$/res/menu/file_menu.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Files" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CustomTypes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telephony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="menu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="local" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinyMessageFilter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="telephony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TinySmsUtil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="diff" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TinyMessageFilter_Free" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="sender2" />
+    <property name="AndroidTargetDevices" value="emulator-5554" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Android\Projects\TinyMessageFilter\res\drawable" />
+      <recent name="C:\Android\Projects\TinyMessageFilter\res\menu" />
+      <recent name="C:\Android\Projects\TinyMessageFilter\res\layout" />
+      <recent name="C:\Android\Projects\TinySmsUtil\res\menu" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Android\Projects\TinyMessageFilter\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.TinySmsUtil Debug">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TinySmsUtil Debug" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="TinySmsUtil" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="recipient" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TinySmsUtil Deploy" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="TinySmsUtil" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.TinySmsUtil Debug" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.TinySmsUtil Deploy" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="true" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\vitaly.chupaev\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Android\Projects\TinyMessageFilter" />
+          <option name="myCopyRoot" value="C:\Android\Projects\TinyMessageFilter" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Android\Projects\TinyMessageFilter\.idea" />
+          <option name="myCopyRoot" value="C:\Android\Projects\TinyMessageFilter\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Android\Projects\TinyMessageFilter" />
+          <option name="myCopyRoot" value="C:\Android\Projects\TinyMessageFilter" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da2220f-25ef-480f-9c30-4eca679c84c8" name="Default" comment="" />
+      <created>1354633359334</created>
+      <updated>1354633359334</updated>
+    </task>
+    <task id="LOCAL-00001" summary="from home">
+      <created>1358320084911</created>
+      <updated>1358320084911</updated>
+    </task>
+    <task id="LOCAL-00002" summary="from home">
+      <created>1358320132104</created>
+      <updated>1358320132104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="from home">
+      <created>1358365554127</created>
+      <updated>1358365554127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="from home">
+      <created>1358581017109</created>
+      <updated>1358581017109</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new files">
+      <created>1358581531107</created>
+      <updated>1358581531107</updated>
+    </task>
+    <task id="LOCAL-00006" summary="save spam + getTimeStamp overloads">
+      <created>1358859449131</created>
+      <updated>1358859449131</updated>
+    </task>
+    <task id="LOCAL-00007" summary="time format in filename, string format removed">
+      <created>1358942029119</created>
+      <updated>1358942029119</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rtm">
+      <created>1359115689119</created>
+      <updated>1359115689119</updated>
+    </task>
+    <task id="LOCAL-00009" summary="with silent option">
+      <created>1359131049110</created>
+      <updated>1359131049110</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new version rtm">
+      <created>1359472187133</created>
+      <updated>1359472187133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new icons">
+      <created>1359986176126</created>
+      <updated>1359986176126</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new icons, contacts layout, colors">
+      <created>1360169759137</created>
+      <updated>1360169759137</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new icons, contacts layout, colors">
+      <created>1360228820105</created>
+      <updated>1360228820105</updated>
+    </task>
+    <task id="LOCAL-00014" summary="progress bar, refresh main page with Handler">
+      <created>1360241587110</created>
+      <updated>1360241587110</updated>
+    </task>
+    <task id="LOCAL-00015" summary="cache problem on FileList">
+      <created>1360242376111</created>
+      <updated>1360242376111</updated>
+    </task>
+    <task id="LOCAL-00016" summary="inbox added">
+      <created>1361804904127</created>
+      <updated>1361804904127</updated>
+    </task>
+    <task id="LOCAL-00017" summary="new layout; fixed allow/block message; immediate save for BL and other">
+      <created>1361970493107</created>
+      <updated>1361970493107</updated>
+    </task>
+    <task id="LOCAL-00018" summary="clear notifications, context menu for contacts and some other tunning things">
+      <created>1362056389105</created>
+      <updated>1362056389105</updated>
+    </task>
+    <task id="LOCAL-00019" summary="serializable contacts, hdpi folder">
+      <created>1362153458122</created>
+      <updated>1362153458122</updated>
+    </task>
+    <task id="LOCAL-00020" summary="sorting senders">
+      <created>1362496347167</created>
+      <updated>1362496347167</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cache cleaning">
+      <created>1362670933106</created>
+      <updated>1362670933106</updated>
+    </task>
+    <task id="LOCAL-00022" summary="cache clear">
+      <created>1362671343110</created>
+      <updated>1362671343110</updated>
+    </task>
+    <task id="LOCAL-00023" summary="reject calls (up to 4.0?), preparation for colored planes and custom numbers for blocking">
+      <created>1365087321854</created>
+      <updated>1365087321854</updated>
+    </task>
+    <task id="LOCAL-00024" summary="reject calls now working">
+      <created>1365172229111</created>
+      <updated>1365172229111</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3114383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5537939" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18668832" sideWeight="0.6851642" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20340356" sideWeight="0.6702254" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2434881" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.5537939" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42582107" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289941" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25254813" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38618347" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5537939" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39951378" sideWeight="0.5537939" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24230146" sideWeight="0.66944116" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33055887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21312805" sideWeight="0.6702254" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.74631935" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="reject calls now working" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="from home" />
+    <MESSAGE value="new files" />
+    <MESSAGE value="save spam + getTimeStamp overloads" />
+    <MESSAGE value="time format in filename" />
+    <MESSAGE value="time format in filename, string format removed" />
+    <MESSAGE value="rtm" />
+    <MESSAGE value="with silent option" />
+    <MESSAGE value="new version rtm" />
+    <MESSAGE value="new icons" />
+    <MESSAGE value="new icons, contacts layout, colors" />
+    <MESSAGE value="progress bar, refresh main page with Handler" />
+    <MESSAGE value="cache problem on FileList" />
+    <MESSAGE value="inbox added" />
+    <MESSAGE value="new layout; fixed allow/block message; immediate save for BL and other" />
+    <MESSAGE value="clear notifications, context menu for contacts and some other tunning things" />
+    <MESSAGE value="serializable contacts, hdpi folder" />
+    <MESSAGE value="sorting senders" />
+    <MESSAGE value="cache cleaning" />
+    <MESSAGE value="cache clear" />
+    <MESSAGE value="reject calls (up to 4.0?), preparation for colored planes and custom numbers for blocking" />
+    <MESSAGE value="reject calls now working" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Messages/BlockedMessagesList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="165" column="20" selection-start="5674" selection-end="5674" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/contact_list.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="25" selection-start="1826" selection-end="3873" vertical-scroll-proportion="-12.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileModelHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="119" column="22" selection-start="2923" selection-end="2923" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1509#1520#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-8/android.jar!/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="406" selection-end="406" vertical-scroll-proportion="0.33278957">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-8/android.jar!/android/content/ContextWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="16" selection-start="6692" selection-end="6692" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileArrayAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="37" selection-start="4860" selection-end="4860" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/file_context_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="31" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="19" selection-start="1247" selection-end="1247" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="method#setIgnoreIt#0;class#FileModel#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Files/FileList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="182" column="0" selection-start="5707" selection-end="5707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/SystemAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="128" column="0" selection-start="4894" selection-end="4894" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#3980#4977#0" expanded="true" />
+            <element signature="e#4966#4967#0" expanded="true" />
+            <element signature="e#5019#5184#0" expanded="true" />
+            <element signature="e#5173#5174#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/DbHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="0" selection-start="6090" selection-end="6090" vertical-scroll-proportion="-5.6">
+          <folding>
+            <element signature="e#4034#4045#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/Helpers/CacheHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="34" selection-start="1656" selection-end="1656" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/sender_pattern.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="54" selection-start="791" selection-end="791" vertical-scroll-proportion="-12.24">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/CustomTypes/SmsMessageEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="0" selection-start="2869" selection-end="3139" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/smf/local/PhoneCallReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="50" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/file_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="962" selection-end="962" vertical-scroll-proportion="0.30538923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android (TinySmsUtil)|Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 2.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|TinySmsUtil</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
